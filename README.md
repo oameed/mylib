@@ -47,5 +47,5 @@
 [[view]](https://wwnorton.com/books/9780393305746) 1907. Rank. _Art and Artist_  
 
 ## Ancient History of Iran
-[**_A List of Resources on the History of Iran_**](docs/lhri.md)  
+[**_A List of Resources on the History of Iran_**](docs/lrhi.md)  
 
